@@ -34,5 +34,5 @@ d. Wait for the simulations to complete. Final results will be displayed after p
 
 
 ## Contributors
-- Suyash Chintawar  	(191IT109)
-- Aditya Sharma      (201MN003)
+- Kanishk Gupta      
+- Aditya Sharma      
